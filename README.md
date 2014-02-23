@@ -1,9 +1,9 @@
 hetihierontaan.fi
 =================
 
-hetihierontaan.fi belongs to Arabiaan Massage company, located in Helsinki
-
 Developed from Limon theme. The original Limon is an unresponsive theme and quite hard to use for the customer, who is an old woman having little IT skills. My role is modifying the theme to make it more responsive and easy to use.
+
+![ScreenShot](https://raw.github.com/vinhnghi223/hetihierontaan.fi/master/hetiscreenshot.jpg)
 
 A site is called responsive when it can provide an optimal viewing experience including easy reading and navigation with a minimum of resizing, panning, and scrolling—across a wide range of devices (from mobile phones to desktop computer monitors).
 
