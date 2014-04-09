@@ -7,7 +7,7 @@ Developed from Limon theme. The original Limon is an unresponsive theme and quit
 
 A site is called responsive when it can provide an optimal viewing experience including easy reading and navigation with a minimum of resizing, panning, and scrolling—across a wide range of devices (from mobile phones to desktop computer monitors).
 
-To help the site achieve its responsiveness, I used media queries in the Style.css file of Limon theme. You can find the source code here: https://github.com/vinhnghi223/hetihierontaan.fi/blob/master/style.css . From there, go to the comment section named RESPONSIVE . From there you can see how the css file has been overwritten. I took into consideration of the following dimensions:
+To help the site achieve its responsiveness, I used media queries in the Style.css file of Limon theme. You can find the source code [here](https://github.com/vinhnghi223/hetihierontaan.fi/blob/master/style.css) . From there, go to the comment section named RESPONSIVE . From there you can see how the css file has been overwritten. I took into consideration of the following dimensions:
 
 The device with maximum width of 719px (max-width : 719px) suitable for landscape view on most current tablets.
 The device with maximum width of 573px (max-width : 573px) suitable for portrait view on most current tablets.
